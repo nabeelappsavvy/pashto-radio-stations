@@ -1463,5 +1463,41 @@
       "https://stream-171.zeno.fm/2jwyo983y49vv": 128
     },
     "mirrorBitrates": []
+  },
+  {
+    "name": "Radio Ashpazi",
+    "streamUrl": "https://stream.zeno.fm/dk6riq4gsybuv",
+    "website": "",
+    "logo": "",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 81,
+    "active": true,
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream.zeno.fm/dk6riq4gsybuv": 128
+    },
+    "mirrorBitrates": []
+  },
+  {
+    "name": "JOSH Online Radio",
+    "streamUrl": "https://artemis.streamerr.co/listen/josh_online_radio_-_afghanistan/radio.mp3",
+    "website": "https://joshonlineradio.com/",
+    "logo": "",
+    "bitrate": 192,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 82,
+    "active": true,
+    "mirrors": [],
+    "urlBitrates": {
+      "https://artemis.streamerr.co/listen/josh_online_radio_-_afghanistan/radio.mp3": 192
+    },
+    "mirrorBitrates": []
   }
 ]
