@@ -10,7 +10,8 @@
     "country": "Pakistan",
     "category": "pashto",
     "order": 1,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Afghan Beats Radio",
@@ -23,7 +24,8 @@
     "country": "The United Kingdom Of Great Britain And Northern Ireland",
     "category": "pashto",
     "order": 2,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Ariana FM 93.5 Kabul",
@@ -36,7 +38,8 @@
     "country": "Afghanistan",
     "category": "pashto",
     "order": 3,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Arman FM 98.1",
@@ -49,7 +52,8 @@
     "country": "Afghanistan",
     "category": "pashto",
     "order": 4,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "BBC Pashto",
@@ -62,7 +66,8 @@
     "country": "United Kingdom",
     "category": "pashto",
     "order": 5,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Radio Afghanistan International",
@@ -75,7 +80,8 @@
     "country": "Afghanistan",
     "category": "pashto",
     "order": 6,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Radio Azadi (RFE/RL)",
@@ -88,7 +94,8 @@
     "country": "Afghanistan",
     "category": "pashto",
     "order": 7,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Radio Begum",
@@ -101,7 +108,8 @@
     "country": "Afghanistan",
     "category": "pashto",
     "order": 8,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Radio Kunduz FM 89.6",
@@ -114,7 +122,8 @@
     "country": "Afghanistan",
     "category": "pashto",
     "order": 9,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Taleemul Islam Radio",
@@ -127,7 +136,8 @@
     "country": "Afghanistan",
     "category": "pashto",
     "order": 10,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Taleemul Quran Radio",
@@ -140,7 +150,8 @@
     "country": "Afghanistan",
     "category": "pashto",
     "order": 11,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Translation of the Quran in Pashto",
@@ -153,7 +164,8 @@
     "country": "Kuwait",
     "category": "pashto",
     "order": 12,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Wardak FM",
@@ -166,7 +178,8 @@
     "country": "Afghanistan",
     "category": "pashto",
     "order": 13,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Hamsafar Radio",
@@ -179,7 +192,8 @@
     "country": "Iran",
     "category": "iran",
     "order": 14,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Iran On Air (KIRN)",
@@ -192,7 +206,8 @@
     "country": "Iran",
     "category": "iran",
     "order": 15,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Parsa Radio",
@@ -205,7 +220,8 @@
     "country": "Iran",
     "category": "iran",
     "order": 16,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Radio Faaz",
@@ -218,7 +234,10 @@
     "country": "Iran",
     "category": "iran",
     "order": 17,
-    "active": true
+    "active": true,
+    "mirrors": [
+      "https://free.rcast.net/230792"
+    ]
   },
   {
     "name": "Radio Mojahed",
@@ -231,7 +250,8 @@
     "country": "Iran",
     "category": "iran",
     "order": 18,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Radio Mojdeh",
@@ -244,7 +264,10 @@
     "country": "Iran",
     "category": "iran",
     "order": 19,
-    "active": true
+    "active": true,
+    "mirrors": [
+      "http://ic2326.c1261.fast-serv.com/rm128"
+    ]
   },
   {
     "name": "Radio Navahang",
@@ -257,7 +280,8 @@
     "country": "Iran",
     "category": "iran",
     "order": 20,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Radio Sarcheshme",
@@ -270,7 +294,8 @@
     "country": "Iran",
     "category": "iran",
     "order": 21,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Radio Simorgh",
@@ -283,7 +308,8 @@
     "country": "Iran",
     "category": "iran",
     "order": 22,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "Radio ZZA (Zan Zendegi Azadi)",
@@ -296,7 +322,8 @@
     "country": "Iran",
     "category": "iran",
     "order": 23,
-    "active": true
+    "active": true,
+    "mirrors": []
   },
   {
     "name": "RFE/RL Radio Farda",
@@ -309,7 +336,10 @@
     "country": "Czechia",
     "category": "iran",
     "order": 24,
-    "active": true
+    "active": true,
+    "mirrors": [
+      "https://stream.radiojar.com/cp13r2cpn3quv"
+    ]
   },
   {
     "name": "RFI Persian",
@@ -322,6 +352,793 @@
     "country": "France",
     "category": "iran",
     "order": 25,
-    "active": true
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Afghan Aykhanum Radio",
+    "streamUrl": "https://stream.zeno.fm/ynwu3bzocuauv",
+    "website": "https://zeno.fm/radio/afghan-aykhanum-radio/",
+    "logo": "https://proxy.zeno.fm/content/stations/46f40474-ea04-460b-aa21-1bf91a9b7af9/image/?u=1670273380000",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 26,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Hamsada Radio",
+    "streamUrl": "https://stream.zeno.fm/ui78yc3qvotuv",
+    "website": "https://zeno.fm/radio/hamsada/",
+    "logo": "https://proxy.zeno.fm/content/stations/aa985bc0-5227-40ed-9faf-842d46638236/image/?u=1675029199000",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 27,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Barin",
+    "streamUrl": "https://stream.zeno.fm/0f51gtg6cm8uv",
+    "website": "https://zeno.fm/radio/radio-barin/",
+    "logo": "https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQj_nS5wkMCxIOU3RhdGlvblByb2ZpbGUYgIDQ16fMmQoMogEEemVubw/image/?u=1661094074000",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 28,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Ghazal",
+    "streamUrl": "https://radioghazal.com/live.mp3",
+    "website": "https://radioghazal.com/",
+    "logo": "https://radioghazal.com/mianbarnama/logo.png",
+    "bitrate": 16,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 29,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Haqiqat",
+    "streamUrl": "https://stream.zeno.fm/i9w3sw7wtwttv",
+    "website": "https://zeno.fm/radio/afghan-radio-haqiqat-aff8/",
+    "logo": "https://proxy.zeno.fm/content/stations/1b7bedff-d193-41a9-a093-4312543940ce/image/?u=1768711917000",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 30,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Kabul",
+    "streamUrl": "http://23.81.35.187:8054/stream",
+    "website": "https://www.rta.af/",
+    "logo": "",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 31,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Meher",
+    "streamUrl": "https://streams.radio.co/s08eb94fbc/listen",
+    "website": "https://www.radiomeher.com/",
+    "logo": "https://images.radio.co/station_logos/s08eb94fbc.20250502114734.jpg",
+    "bitrate": 192,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 32,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Sadaye Zindagi",
+    "streamUrl": "https://afghanradio.org:9443/stream",
+    "website": "https://afghanradio.org/",
+    "logo": "https://graph.facebook.com/RadioSadayeZindagi/picture?width=1024&height=1024",
+    "bitrate": 56,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 33,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Srood",
+    "streamUrl": "https://stream.radiosrood.com/",
+    "website": "https://radiosrood.com/",
+    "logo": "http://stream.cloud.radiosrood.com:8000/images/icecast.png",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 34,
+    "active": true,
+    "mirrors": [
+      "http://stream.cloud.radiosrood.com:8000/live"
+    ]
+  },
+  {
+    "name": "Radio Pakistan Peshawar",
+    "streamUrl": "https://whmsonic.radio.gov.pk:8072/relay",
+    "website": "https://radio.gov.pk/",
+    "logo": "",
+    "bitrate": 192,
+    "codec": "MP3",
+    "language": "pashto",
+    "country": "Pakistan",
+    "category": "pashto",
+    "order": 35,
+    "active": true,
+    "mirrors": [
+      "https://whmsonic.radio.gov.pk:8072/relay?type=http&nocache=9"
+    ]
+  },
+  {
+    "name": "Radio Pakistan Quetta",
+    "streamUrl": "https://whmsonic.radio.gov.pk:8060/relay",
+    "website": "https://radio.gov.pk/",
+    "logo": "https://radio.gov.pk/site_logo.png",
+    "bitrate": 64,
+    "codec": "MP3",
+    "language": "pashto",
+    "country": "Pakistan",
+    "category": "pashto",
+    "order": 36,
+    "active": true,
+    "mirrors": [
+      "https://whmsonic.radio.gov.pk:8060/relay?type=http&nocache=9"
+    ]
+  },
+  {
+    "name": "Boorjal Radio",
+    "streamUrl": "http://82.213.26.67:8000/stfeam",
+    "website": "",
+    "logo": "",
+    "bitrate": 96,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 37,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Jawanan FM 97.5",
+    "streamUrl": "https://s3.radio.co/s3a13a855f/listen",
+    "website": "",
+    "logo": "",
+    "bitrate": 64,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 38,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Mubariz Radio",
+    "streamUrl": "https://stream.zeno.fm/adn5vpbmtc8tv",
+    "website": "",
+    "logo": "",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 39,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Pamir Radio",
+    "streamUrl": "http://stream.pamirradio.com:8000/live",
+    "website": "http://pamirradio.com/",
+    "logo": "",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "dari",
+    "country": "Afghanistan",
+    "category": "pashto",
+    "order": 40,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "VOA Deewa Radio",
+    "streamUrl": "https://voa-ingest.akamaized.net/hls/live/2033868/tvmc03/playlist.m3u8",
+    "website": "https://www.voadeewaradio.com/",
+    "logo": "",
+    "bitrate": 0,
+    "codec": "AAC",
+    "language": "pashto",
+    "country": "United States",
+    "category": "pashto",
+    "order": 41,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Buraq Peshawar",
+    "streamUrl": "https://whmsonic.radio.gov.pk:7002/stream",
+    "website": "https://radio.gov.pk/",
+    "logo": "",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "pashto",
+    "country": "Pakistan",
+    "category": "pashto",
+    "order": 42,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Shadi",
+    "streamUrl": "https://ice9.securenetsystems.net/SHADI",
+    "website": "https://radioshadi.com/",
+    "logo": "",
+    "bitrate": 64,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "United States",
+    "category": "iran",
+    "order": 43,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Yar Plus 2",
+    "streamUrl": "https://stream-163.zeno.fm/yxemzpoaocavv",
+    "website": "",
+    "logo": "",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "United States",
+    "category": "iran",
+    "order": 44,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "MIBL Radio",
+    "streamUrl": "https://www.miblradio.com.au/mibl",
+    "website": "https://www.miblradio.com.au/",
+    "logo": "https://www.miblradio.com.au/LOGO.webp",
+    "bitrate": 320,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "Australia",
+    "category": "iran",
+    "order": 45,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Persian Vibe Radio",
+    "streamUrl": "https://radio.aydayazdani.com/stream",
+    "website": "https://radio.aydayazdani.com/",
+    "logo": "https://radio.aydayazdani.com/assets/img/pvr-logo.png",
+    "bitrate": 192,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "United Kingdom",
+    "category": "iran",
+    "order": 46,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Farsi Frequency",
+    "streamUrl": "https://stream.zeno.fm/3q0k3nxazjkvv",
+    "website": "https://farsifrequency.com/",
+    "logo": "",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "United States",
+    "category": "iran",
+    "order": 47,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Hope for Tomorrow (Persian)",
+    "streamUrl": "https://radio.truth.fm:8000/pipfa",
+    "website": "https://truthfm.live/farsi/",
+    "logo": "https://truth-fm.s3.amazonaws.com/wp-content/uploads/2024/04/24084751/Farsi-Radio-Hope-For-Tomorrow-Radio-Square.png",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "United States",
+    "category": "iran",
+    "order": 48,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Parastande Persian Worship",
+    "streamUrl": "https://streamer.radio.co/sa75a4bb19/listen",
+    "website": "https://bashde.org/",
+    "logo": "",
+    "bitrate": 192,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "United States",
+    "category": "iran",
+    "order": 49,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Hamrah",
+    "streamUrl": "https://stream.zenolive.com/gxdq0awu30duv.aac",
+    "website": "http://www.radiohamrah.com/",
+    "logo": "http://www.radiohamrah.com/favicon.ico",
+    "bitrate": 64,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "United States",
+    "category": "iran",
+    "order": 50,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Yar LA",
+    "streamUrl": "https://stream-170.zeno.fm/oyb5oh6ne3tuv",
+    "website": "",
+    "logo": "",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "United States",
+    "category": "iran",
+    "order": 51,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Ava Turkiye",
+    "streamUrl": "http://play.markaradyo.com:8002/stream",
+    "website": "http://play.markaradyo.com/",
+    "logo": "",
+    "bitrate": 192,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "Türkiye",
+    "category": "iran",
+    "order": 52,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Translation of the Quran in Farsi",
+    "streamUrl": "https://serverkw.quran-uni.com:8144/;",
+    "website": "https://quran-uni.com/radio/%d8%a7%d9%84%d9%82%d8%b1%d8%a2%d9%86-%d8%a8%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d8%b3%d9%8a%d8%a9/",
+    "logo": "",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "Kuwait",
+    "category": "iran",
+    "order": 53,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Hambastegi (Stockholm)",
+    "streamUrl": "http://radiostreamthree.mine.nu:80/9400",
+    "website": "",
+    "logo": "",
+    "bitrate": 64,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "Sweden",
+    "category": "iran",
+    "order": 54,
+    "active": true,
+    "mirrors": [
+      "http://radiostreamthree.mine.nu:80/9600",
+      "http://radiostreamone.mine.nu:80/9600"
+    ]
+  },
+  {
+    "name": "Iran International Radio",
+    "streamUrl": "https://stream.radiojar.com/iintl_c",
+    "website": "https://www.iranintl.com/",
+    "logo": "https://www.iranintl.com/favicon.ico",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "United Kingdom",
+    "category": "iran",
+    "order": 55,
+    "active": true,
+    "mirrors": [
+      "https://radio.iraninternational.app/iintl_c"
+    ]
+  },
+  {
+    "name": "IRIB Radio Maaref",
+    "streamUrl": "https://s2.cdn1.iranseda.ir/liveedge/radio-maaref/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 42,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 56,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Darbast",
+    "streamUrl": "http://live.radiodarbast.com:8443/stream.mp3",
+    "website": "",
+    "logo": "",
+    "bitrate": 79,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 57,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Mokashefeh",
+    "streamUrl": "https://s2.radio.co/sbe3f44c5d/listen",
+    "website": "",
+    "logo": "",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 58,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "Radio Ali (Avaz Farsi)",
+    "streamUrl": "https://radio.avazfarsi.com:8000/radio.mp3",
+    "website": "",
+    "logo": "",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 59,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "IRIB Radio Iran",
+    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-iran/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 42,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 60,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "IRIB Radio Javan",
+    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-javan/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 42,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 61,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "IRIB Radio Quran",
+    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-quran/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 42,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 62,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "IRIB Radio Saba",
+    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-saba/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 43,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 63,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "IRIB Radio Eghtesad",
+    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-eghtesad/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 41,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 64,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "IRIB Radio Ava",
+    "streamUrl": "https://s0.cdn1.iranseda.ir/liveedge/radio-avaa/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 43,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 65,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "IRIB Radio Farhang",
+    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-farhang/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 41,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 66,
+    "active": true,
+    "mirrors": [
+      "https://s2.cdn1.iranseda.ir/liveedge/radio-farhang/playlist.m3u8",
+      "https://s0.cdn1.iranseda.ir/liveedge/radio-farhang/playlist.m3u8",
+      "https://s2.cdn3.iranseda.ir/liveedge/radio-farhang/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "IRIB Radio Payam",
+    "streamUrl": "https://s2.cdn1.iranseda.ir/liveedge/radio-payam/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 41,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 67,
+    "active": true,
+    "mirrors": [
+      "https://s1.cdn3.iranseda.ir/liveedge/radio-payam/playlist.m3u8",
+      "https://s2.cdn3.iranseda.ir/liveedge/radio-payam/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "IRIB Radio Tehran",
+    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-tehran/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 41,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 68,
+    "active": true,
+    "mirrors": [
+      "https://s2.cdn1.iranseda.ir/liveedge/radio-tehran/playlist.m3u8",
+      "https://s0.cdn1.iranseda.ir/liveedge/radio-tehran/playlist.m3u8",
+      "https://s1.cdn3.iranseda.ir/liveedge/radio-tehran/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "IRIB Radio Varzesh",
+    "streamUrl": "https://s2.cdn1.iranseda.ir/liveedge/radio-varzesh/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 42,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 69,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "IRIB Radio Salamat",
+    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-salamat/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 42,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 70,
+    "active": true,
+    "mirrors": [
+      "https://s0.cdn1.iranseda.ir/liveedge/radio-salamat/playlist.m3u8",
+      "https://s2.cdn3.iranseda.ir/liveedge/radio-salamat/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "IRIB Radio Esfahan",
+    "streamUrl": "https://s2.cdn1.iranseda.ir/liveedgeProvincial/radio-esfahan/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 66,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 71,
+    "active": true,
+    "mirrors": [
+      "https://s0.cdn1.iranseda.ir/liveedgeProvincial/radio-esfahan/playlist.m3u8",
+      "https://s2.cdn3.iranseda.ir/liveedgeProvincial/radio-esfahan/playlist.m3u8",
+      "https://s4.cdn3.iranseda.ir/liveedgeProvincial/radio-esfahan/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "IRIB Radio Fars (Shiraz)",
+    "streamUrl": "https://s4.cdn3.iranseda.ir/liveedgeprovincial/radio-fars/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 64,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 72,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "IRIB Radio Gilan (Rasht)",
+    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedgeProvincial/radio-gilan/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 66,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 73,
+    "active": true,
+    "mirrors": [
+      "https://s2.cdn1.iranseda.ir/liveedgeProvincial/radio-gilan/playlist.m3u8",
+      "https://s2.cdn3.iranseda.ir/liveedgeProvincial/radio-gilan/playlist.m3u8",
+      "https://s4.cdn3.iranseda.ir/liveedgeProvincial/radio-gilan/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "IRIB Radio Kurdistan (Sanandaj)",
+    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedgeprovincial/radio-kordestan/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 66,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 74,
+    "active": true,
+    "mirrors": []
+  },
+  {
+    "name": "IRIB Radio Lorestan",
+    "streamUrl": "https://s2.cdn1.iranseda.ir/liveedgeprovincial/radio-lorestan/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 65,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 75,
+    "active": true,
+    "mirrors": [
+      "https://s0.cdn1.iranseda.ir/liveedgeprovincial/radio-lorestan/playlist.m3u8",
+      "https://s2.cdn3.iranseda.ir/liveedgeprovincial/radio-lorestan/playlist.m3u8",
+      "https://s4.cdn3.iranseda.ir/liveedgeprovincial/radio-lorestan/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "IRIB Radio Kerman",
+    "streamUrl": "https://s2.cdn1.iranseda.ir/liveedgeprovincial/radio-kerman/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 66,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 76,
+    "active": true,
+    "mirrors": [
+      "https://s2.cdn3.iranseda.ir/liveedgeprovincial/radio-kerman/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "IRIB Radio Qom",
+    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedgeprovincial/radio-qom/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 65,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 77,
+    "active": true,
+    "mirrors": [
+      "https://s0.cdn1.iranseda.ir/liveedgeprovincial/radio-qom/playlist.m3u8",
+      "https://s4.cdn3.iranseda.ir/liveedgeprovincial/radio-qom/playlist.m3u8"
+    ]
+  },
+  {
+    "name": "IRIB Radio Ardabil",
+    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedgeprovincial/radio-ardebil/playlist.m3u8",
+    "website": "https://radio.iranseda.ir/",
+    "logo": "",
+    "bitrate": 66,
+    "codec": "AAC",
+    "language": "persian",
+    "country": "Iran",
+    "category": "iran",
+    "order": 78,
+    "active": true,
+    "mirrors": [
+      "https://s2.cdn3.iranseda.ir/liveedgeprovincial/radio-ardebil/playlist.m3u8"
+    ]
   }
 ]
