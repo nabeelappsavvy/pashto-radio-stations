@@ -788,7 +788,7 @@
   },
   {
     "name": "IRIB Radio Maaref",
-    "streamUrl": "https://s2.cdn1.iranseda.ir/liveedge/radio-maaref/playlist.m3u8",
+    "streamUrl": "https://s2cdn1.iranseda.ir/liveedge/radio-maaref/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 42,
@@ -798,7 +798,10 @@
     "category": "iran",
     "order": 56,
     "active": true,
-    "mirrors": []
+    "mirrors": [
+      "https://s1cdn3.iranseda.ir/liveedge/radio-maaref/playlist.m3u8",
+      "https://s2cdn1.iranseda.ir/liveedge/radio-maaref/playlist.m3u8"
+    ]
   },
   {
     "name": "Radio Darbast",
@@ -844,7 +847,7 @@
   },
   {
     "name": "IRIB Radio Iran",
-    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-iran/playlist.m3u8",
+    "streamUrl": "https://s1cdn1.iranseda.ir/liveedge/radio-iran/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 42,
@@ -854,11 +857,14 @@
     "category": "iran",
     "order": 60,
     "active": true,
-    "mirrors": []
+    "mirrors": [
+      "https://s1cdn3.iranseda.ir/liveedge/radio-iran/playlist.m3u8",
+      "https://s2cdn1.iranseda.ir/liveedge/radio-iran/playlist.m3u8"
+    ]
   },
   {
     "name": "IRIB Radio Javan",
-    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-javan/playlist.m3u8",
+    "streamUrl": "https://s1cdn1.iranseda.ir/liveedge/radio-javan/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 42,
@@ -868,11 +874,14 @@
     "category": "iran",
     "order": 61,
     "active": true,
-    "mirrors": []
+    "mirrors": [
+      "https://s1cdn3.iranseda.ir/liveedge/radio-javan/playlist.m3u8",
+      "https://s2cdn1.iranseda.ir/liveedge/radio-javan/playlist.m3u8"
+    ]
   },
   {
     "name": "IRIB Radio Quran",
-    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-quran/playlist.m3u8",
+    "streamUrl": "https://s1cdn1.iranseda.ir/liveedge/radio-quran/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 42,
@@ -882,11 +891,14 @@
     "category": "iran",
     "order": 62,
     "active": true,
-    "mirrors": []
+    "mirrors": [
+      "https://s1cdn3.iranseda.ir/liveedge/radio-quran/playlist.m3u8",
+      "https://s2cdn1.iranseda.ir/liveedge/radio-quran/playlist.m3u8"
+    ]
   },
   {
     "name": "IRIB Radio Saba",
-    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-saba/playlist.m3u8",
+    "streamUrl": "https://s1cdn1.iranseda.ir/liveedge/radio-saba/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 43,
@@ -896,11 +908,14 @@
     "category": "iran",
     "order": 63,
     "active": true,
-    "mirrors": []
+    "mirrors": [
+      "https://s1cdn3.iranseda.ir/liveedge/radio-saba/playlist.m3u8",
+      "https://s2cdn1.iranseda.ir/liveedge/radio-saba/playlist.m3u8"
+    ]
   },
   {
     "name": "IRIB Radio Eghtesad",
-    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-eghtesad/playlist.m3u8",
+    "streamUrl": "https://s1cdn1.iranseda.ir/liveedge/radio-eghtesad/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 41,
@@ -910,11 +925,14 @@
     "category": "iran",
     "order": 64,
     "active": true,
-    "mirrors": []
+    "mirrors": [
+      "https://s1cdn3.iranseda.ir/liveedge/radio-eghtesad/playlist.m3u8",
+      "https://s2cdn1.iranseda.ir/liveedge/radio-eghtesad/playlist.m3u8"
+    ]
   },
   {
     "name": "IRIB Radio Ava",
-    "streamUrl": "https://s0.cdn1.iranseda.ir/liveedge/radio-avaa/playlist.m3u8",
+    "streamUrl": "https://s0cdn1.iranseda.ir/liveedge/radio-avaa/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 43,
@@ -924,11 +942,14 @@
     "category": "iran",
     "order": 65,
     "active": true,
-    "mirrors": []
+    "mirrors": [
+      "https://s1cdn3.iranseda.ir/liveedge/radio-avaa/playlist.m3u8",
+      "https://s2cdn1.iranseda.ir/liveedge/radio-avaa/playlist.m3u8"
+    ]
   },
   {
     "name": "IRIB Radio Farhang",
-    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-farhang/playlist.m3u8",
+    "streamUrl": "https://s1cdn1.iranseda.ir/liveedge/radio-farhang/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 41,
@@ -939,14 +960,14 @@
     "order": 66,
     "active": true,
     "mirrors": [
-      "https://s2.cdn1.iranseda.ir/liveedge/radio-farhang/playlist.m3u8",
-      "https://s0.cdn1.iranseda.ir/liveedge/radio-farhang/playlist.m3u8",
-      "https://s2.cdn3.iranseda.ir/liveedge/radio-farhang/playlist.m3u8"
+      "https://s2cdn1.iranseda.ir/liveedge/radio-farhang/playlist.m3u8",
+      "https://s0cdn1.iranseda.ir/liveedge/radio-farhang/playlist.m3u8",
+      "https://s2cdn3.iranseda.ir/liveedge/radio-farhang/playlist.m3u8"
     ]
   },
   {
     "name": "IRIB Radio Payam",
-    "streamUrl": "https://s2.cdn1.iranseda.ir/liveedge/radio-payam/playlist.m3u8",
+    "streamUrl": "https://s2cdn1.iranseda.ir/liveedge/radio-payam/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 41,
@@ -957,13 +978,13 @@
     "order": 67,
     "active": true,
     "mirrors": [
-      "https://s1.cdn3.iranseda.ir/liveedge/radio-payam/playlist.m3u8",
-      "https://s2.cdn3.iranseda.ir/liveedge/radio-payam/playlist.m3u8"
+      "https://s1cdn3.iranseda.ir/liveedge/radio-payam/playlist.m3u8",
+      "https://s2cdn3.iranseda.ir/liveedge/radio-payam/playlist.m3u8"
     ]
   },
   {
     "name": "IRIB Radio Tehran",
-    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-tehran/playlist.m3u8",
+    "streamUrl": "https://s1cdn1.iranseda.ir/liveedge/radio-tehran/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 41,
@@ -974,14 +995,14 @@
     "order": 68,
     "active": true,
     "mirrors": [
-      "https://s2.cdn1.iranseda.ir/liveedge/radio-tehran/playlist.m3u8",
-      "https://s0.cdn1.iranseda.ir/liveedge/radio-tehran/playlist.m3u8",
-      "https://s1.cdn3.iranseda.ir/liveedge/radio-tehran/playlist.m3u8"
+      "https://s2cdn1.iranseda.ir/liveedge/radio-tehran/playlist.m3u8",
+      "https://s0cdn1.iranseda.ir/liveedge/radio-tehran/playlist.m3u8",
+      "https://s1cdn3.iranseda.ir/liveedge/radio-tehran/playlist.m3u8"
     ]
   },
   {
     "name": "IRIB Radio Varzesh",
-    "streamUrl": "https://s2.cdn1.iranseda.ir/liveedge/radio-varzesh/playlist.m3u8",
+    "streamUrl": "https://s2cdn1.iranseda.ir/liveedge/radio-varzesh/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 42,
@@ -991,11 +1012,14 @@
     "category": "iran",
     "order": 69,
     "active": true,
-    "mirrors": []
+    "mirrors": [
+      "https://s1cdn3.iranseda.ir/liveedge/radio-varzesh/playlist.m3u8",
+      "https://s2cdn1.iranseda.ir/liveedge/radio-varzesh/playlist.m3u8"
+    ]
   },
   {
     "name": "IRIB Radio Salamat",
-    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedge/radio-salamat/playlist.m3u8",
+    "streamUrl": "https://s1cdn1.iranseda.ir/liveedge/radio-salamat/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 42,
@@ -1006,13 +1030,13 @@
     "order": 70,
     "active": true,
     "mirrors": [
-      "https://s0.cdn1.iranseda.ir/liveedge/radio-salamat/playlist.m3u8",
-      "https://s2.cdn3.iranseda.ir/liveedge/radio-salamat/playlist.m3u8"
+      "https://s0cdn1.iranseda.ir/liveedge/radio-salamat/playlist.m3u8",
+      "https://s2cdn3.iranseda.ir/liveedge/radio-salamat/playlist.m3u8"
     ]
   },
   {
     "name": "IRIB Radio Esfahan",
-    "streamUrl": "https://s2.cdn1.iranseda.ir/liveedgeProvincial/radio-esfahan/playlist.m3u8",
+    "streamUrl": "https://s2cdn1.iranseda.ir/liveedgeProvincial/radio-esfahan/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 66,
@@ -1023,14 +1047,14 @@
     "order": 71,
     "active": true,
     "mirrors": [
-      "https://s0.cdn1.iranseda.ir/liveedgeProvincial/radio-esfahan/playlist.m3u8",
-      "https://s2.cdn3.iranseda.ir/liveedgeProvincial/radio-esfahan/playlist.m3u8",
-      "https://s4.cdn3.iranseda.ir/liveedgeProvincial/radio-esfahan/playlist.m3u8"
+      "https://s0cdn1.iranseda.ir/liveedgeProvincial/radio-esfahan/playlist.m3u8",
+      "https://s2cdn3.iranseda.ir/liveedgeProvincial/radio-esfahan/playlist.m3u8",
+      "https://s4cdn3.iranseda.ir/liveedgeProvincial/radio-esfahan/playlist.m3u8"
     ]
   },
   {
     "name": "IRIB Radio Fars (Shiraz)",
-    "streamUrl": "https://s4.cdn3.iranseda.ir/liveedgeprovincial/radio-fars/playlist.m3u8",
+    "streamUrl": "https://s4cdn3.iranseda.ir/liveedgeprovincial/radio-fars/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 64,
@@ -1040,11 +1064,14 @@
     "category": "iran",
     "order": 72,
     "active": true,
-    "mirrors": []
+    "mirrors": [
+      "https://s1cdn3.iranseda.ir/liveedgeprovincial/radio-fars/playlist.m3u8",
+      "https://s2cdn1.iranseda.ir/liveedgeprovincial/radio-fars/playlist.m3u8"
+    ]
   },
   {
     "name": "IRIB Radio Gilan (Rasht)",
-    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedgeProvincial/radio-gilan/playlist.m3u8",
+    "streamUrl": "https://s1cdn1.iranseda.ir/liveedgeProvincial/radio-gilan/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 66,
@@ -1055,14 +1082,14 @@
     "order": 73,
     "active": true,
     "mirrors": [
-      "https://s2.cdn1.iranseda.ir/liveedgeProvincial/radio-gilan/playlist.m3u8",
-      "https://s2.cdn3.iranseda.ir/liveedgeProvincial/radio-gilan/playlist.m3u8",
-      "https://s4.cdn3.iranseda.ir/liveedgeProvincial/radio-gilan/playlist.m3u8"
+      "https://s2cdn1.iranseda.ir/liveedgeProvincial/radio-gilan/playlist.m3u8",
+      "https://s2cdn3.iranseda.ir/liveedgeProvincial/radio-gilan/playlist.m3u8",
+      "https://s4cdn3.iranseda.ir/liveedgeProvincial/radio-gilan/playlist.m3u8"
     ]
   },
   {
     "name": "IRIB Radio Kurdistan (Sanandaj)",
-    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedgeprovincial/radio-kordestan/playlist.m3u8",
+    "streamUrl": "https://s1cdn1.iranseda.ir/liveedgeprovincial/radio-kordestan/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 66,
@@ -1072,11 +1099,14 @@
     "category": "iran",
     "order": 74,
     "active": true,
-    "mirrors": []
+    "mirrors": [
+      "https://s1cdn3.iranseda.ir/liveedgeprovincial/radio-kordestan/playlist.m3u8",
+      "https://s2cdn1.iranseda.ir/liveedgeprovincial/radio-kordestan/playlist.m3u8"
+    ]
   },
   {
     "name": "IRIB Radio Lorestan",
-    "streamUrl": "https://s2.cdn1.iranseda.ir/liveedgeprovincial/radio-lorestan/playlist.m3u8",
+    "streamUrl": "https://s2cdn1.iranseda.ir/liveedgeprovincial/radio-lorestan/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 65,
@@ -1087,14 +1117,14 @@
     "order": 75,
     "active": true,
     "mirrors": [
-      "https://s0.cdn1.iranseda.ir/liveedgeprovincial/radio-lorestan/playlist.m3u8",
-      "https://s2.cdn3.iranseda.ir/liveedgeprovincial/radio-lorestan/playlist.m3u8",
-      "https://s4.cdn3.iranseda.ir/liveedgeprovincial/radio-lorestan/playlist.m3u8"
+      "https://s0cdn1.iranseda.ir/liveedgeprovincial/radio-lorestan/playlist.m3u8",
+      "https://s2cdn3.iranseda.ir/liveedgeprovincial/radio-lorestan/playlist.m3u8",
+      "https://s4cdn3.iranseda.ir/liveedgeprovincial/radio-lorestan/playlist.m3u8"
     ]
   },
   {
     "name": "IRIB Radio Kerman",
-    "streamUrl": "https://s2.cdn1.iranseda.ir/liveedgeprovincial/radio-kerman/playlist.m3u8",
+    "streamUrl": "https://s2cdn1.iranseda.ir/liveedgeprovincial/radio-kerman/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 66,
@@ -1105,12 +1135,13 @@
     "order": 76,
     "active": true,
     "mirrors": [
-      "https://s2.cdn3.iranseda.ir/liveedgeprovincial/radio-kerman/playlist.m3u8"
+      "https://s2cdn3.iranseda.ir/liveedgeprovincial/radio-kerman/playlist.m3u8",
+      "https://s1cdn3.iranseda.ir/liveedgeprovincial/radio-kerman/playlist.m3u8"
     ]
   },
   {
     "name": "IRIB Radio Qom",
-    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedgeprovincial/radio-qom/playlist.m3u8",
+    "streamUrl": "https://s1cdn1.iranseda.ir/liveedgeprovincial/radio-qom/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 65,
@@ -1121,13 +1152,13 @@
     "order": 77,
     "active": true,
     "mirrors": [
-      "https://s0.cdn1.iranseda.ir/liveedgeprovincial/radio-qom/playlist.m3u8",
-      "https://s4.cdn3.iranseda.ir/liveedgeprovincial/radio-qom/playlist.m3u8"
+      "https://s0cdn1.iranseda.ir/liveedgeprovincial/radio-qom/playlist.m3u8",
+      "https://s4cdn3.iranseda.ir/liveedgeprovincial/radio-qom/playlist.m3u8"
     ]
   },
   {
     "name": "IRIB Radio Ardabil",
-    "streamUrl": "https://s1.cdn1.iranseda.ir/liveedgeprovincial/radio-ardebil/playlist.m3u8",
+    "streamUrl": "https://s1cdn1.iranseda.ir/liveedgeprovincial/radio-ardebil/playlist.m3u8",
     "website": "https://radio.iranseda.ir/",
     "logo": "",
     "bitrate": 66,
@@ -1138,7 +1169,8 @@
     "order": 78,
     "active": true,
     "mirrors": [
-      "https://s2.cdn3.iranseda.ir/liveedgeprovincial/radio-ardebil/playlist.m3u8"
+      "https://s2cdn3.iranseda.ir/liveedgeprovincial/radio-ardebil/playlist.m3u8",
+      "https://s1cdn3.iranseda.ir/liveedgeprovincial/radio-ardebil/playlist.m3u8"
     ]
   }
 ]
