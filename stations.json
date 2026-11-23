@@ -11,7 +11,11 @@
     "category": "pashto",
     "order": 1,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9": 96
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Afghan Beats Radio",
@@ -25,7 +29,11 @@
     "category": "pashto",
     "order": 2,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://solid41.streamupsolutions.com/proxy/rvfskeow?mp=/;type=mp3": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Ariana FM 93.5 Kabul",
@@ -39,7 +47,11 @@
     "category": "pashto",
     "order": 3,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://streams.radio.co/sa3345aaa8/listen": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Arman FM 98.1",
@@ -53,7 +65,11 @@
     "category": "pashto",
     "order": 4,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream.zeno.fm/zhsfxpeqczzvv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "BBC Pashto",
@@ -67,7 +83,16 @@
     "category": "pashto",
     "order": 5,
     "active": true,
-    "mirrors": []
+    "mirrors": [
+      "http://stream.live.vc.bbcmedia.co.uk/bbc_pashto_radio"
+    ],
+    "urlBitrates": {
+      "https://stream.live.vc.bbcmedia.co.uk/bbc_pashto_radio": 56,
+      "http://stream.live.vc.bbcmedia.co.uk/bbc_pashto_radio": 56
+    },
+    "mirrorBitrates": [
+      56
+    ]
   },
   {
     "name": "Radio Afghanistan International",
@@ -81,7 +106,11 @@
     "category": "pashto",
     "order": 6,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream.radiojar.com/vemf3w2rv38uv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Azadi (RFE/RL)",
@@ -95,7 +124,11 @@
     "category": "pashto",
     "order": 7,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://rferl-ingest.akamaized.net/hls/live/2121749/axia01/master.m3u8": 257
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Begum",
@@ -109,7 +142,11 @@
     "category": "pashto",
     "order": 8,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://s5.radio.co/se6264cb34/listen": 96
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Kunduz FM 89.6",
@@ -123,7 +160,11 @@
     "category": "pashto",
     "order": 9,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream.zeno.fm/rk1up6247p8uv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Taleemul Islam Radio",
@@ -137,7 +178,11 @@
     "category": "pashto",
     "order": 10,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://radio.hewadict.com/proxy/tislamradio?mp=/stream": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Taleemul Quran Radio",
@@ -151,7 +196,11 @@
     "category": "pashto",
     "order": 11,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://radio.hewadict.com/proxy/quranradio?mp=/stream": 64
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Translation of the Quran in Pashto",
@@ -165,7 +214,11 @@
     "category": "pashto",
     "order": 12,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://serverkw.quran-uni.com:8178/;": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Wardak FM",
@@ -179,7 +232,11 @@
     "category": "pashto",
     "order": 13,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream.zeno.fm/sgp6ng971k8uv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Hamsafar Radio",
@@ -193,7 +250,11 @@
     "category": "iran",
     "order": 14,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "http://n06.radiojar.com/pyea7q9h5ehvv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Iran On Air (KIRN)",
@@ -207,7 +268,11 @@
     "category": "iran",
     "order": 15,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "http://ice41.securenetsystems.net/KIRN": 24
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Parsa Radio",
@@ -221,7 +286,11 @@
     "category": "iran",
     "order": 16,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "http://parsa.icdndhcp.com:18000/stream": 64
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Faaz",
@@ -237,6 +306,13 @@
     "active": true,
     "mirrors": [
       "https://free.rcast.net/230792"
+    ],
+    "urlBitrates": {
+      "http://www.radiofaaz.com:8000/radiofaaz": 128,
+      "https://free.rcast.net/230792": 128
+    },
+    "mirrorBitrates": [
+      128
     ]
   },
   {
@@ -251,7 +327,11 @@
     "category": "iran",
     "order": 18,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://s2.radio.co/s830691c74/listen": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Mojdeh",
@@ -267,6 +347,13 @@
     "active": true,
     "mirrors": [
       "http://ic2326.c1261.fast-serv.com/rm128"
+    ],
+    "urlBitrates": {
+      "https://ic2326.c1261.fastserv.com/rm128": 128,
+      "http://ic2326.c1261.fast-serv.com/rm128": 128
+    },
+    "mirrorBitrates": [
+      128
     ]
   },
   {
@@ -281,7 +368,11 @@
     "category": "iran",
     "order": 20,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://navairan.com/;stream.nsv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Sarcheshme",
@@ -295,7 +386,11 @@
     "category": "iran",
     "order": 21,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "http://sarcheshmeh.icdndhcp.com:18452/stream": 96
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Simorgh",
@@ -309,7 +404,11 @@
     "category": "iran",
     "order": 22,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream.zeno.fm/9svfnobkrxrvv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio ZZA (Zan Zendegi Azadi)",
@@ -323,7 +422,11 @@
     "category": "iran",
     "order": 23,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://listen.radioking.com/radio/526993/stream/585379": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "RFE/RL Radio Farda",
@@ -339,6 +442,13 @@
     "active": true,
     "mirrors": [
       "https://stream.radiojar.com/cp13r2cpn3quv"
+    ],
+    "urlBitrates": {
+      "http://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21": 128,
+      "https://stream.radiojar.com/cp13r2cpn3quv": 128
+    },
+    "mirrorBitrates": [
+      128
     ]
   },
   {
@@ -353,7 +463,11 @@
     "category": "iran",
     "order": 25,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "http://live02.rfi.fr/rfienpersan-64k.mp3": 64
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Afghan Aykhanum Radio",
@@ -367,7 +481,11 @@
     "category": "pashto",
     "order": 26,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream.zeno.fm/ynwu3bzocuauv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Hamsada Radio",
@@ -381,7 +499,11 @@
     "category": "pashto",
     "order": 27,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream.zeno.fm/ui78yc3qvotuv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Barin",
@@ -395,7 +517,11 @@
     "category": "pashto",
     "order": 28,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream.zeno.fm/0f51gtg6cm8uv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Ghazal",
@@ -423,7 +549,11 @@
     "category": "pashto",
     "order": 30,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream.zeno.fm/i9w3sw7wtwttv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Kabul",
@@ -437,7 +567,11 @@
     "category": "pashto",
     "order": 31,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "http://23.81.35.187:8054/stream": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Meher",
@@ -451,7 +585,11 @@
     "category": "pashto",
     "order": 32,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://streams.radio.co/s08eb94fbc/listen": 192
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Sadaye Zindagi",
@@ -465,7 +603,11 @@
     "category": "pashto",
     "order": 33,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://afghanradio.org:9443/stream": 56
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Srood",
@@ -481,6 +623,13 @@
     "active": true,
     "mirrors": [
       "http://stream.cloud.radiosrood.com:8000/live"
+    ],
+    "urlBitrates": {
+      "https://stream.radiosrood.com/": 128,
+      "http://stream.cloud.radiosrood.com:8000/live": 128
+    },
+    "mirrorBitrates": [
+      128
     ]
   },
   {
@@ -497,6 +646,13 @@
     "active": true,
     "mirrors": [
       "https://whmsonic.radio.gov.pk:8072/relay?type=http&nocache=9"
+    ],
+    "urlBitrates": {
+      "https://whmsonic.radio.gov.pk:8072/relay": 192,
+      "https://whmsonic.radio.gov.pk:8072/relay?type=http&nocache=9": 192
+    },
+    "mirrorBitrates": [
+      192
     ]
   },
   {
@@ -513,6 +669,13 @@
     "active": true,
     "mirrors": [
       "https://whmsonic.radio.gov.pk:8060/relay?type=http&nocache=9"
+    ],
+    "urlBitrates": {
+      "https://whmsonic.radio.gov.pk:8060/relay": 64,
+      "https://whmsonic.radio.gov.pk:8060/relay?type=http&nocache=9": 64
+    },
+    "mirrorBitrates": [
+      64
     ]
   },
   {
@@ -527,7 +690,11 @@
     "category": "pashto",
     "order": 37,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "http://82.213.26.67:8000/stfeam": 96
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Jawanan FM 97.5",
@@ -541,7 +708,11 @@
     "category": "pashto",
     "order": 38,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://s3.radio.co/s3a13a855f/listen": 64
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Mubariz Radio",
@@ -555,7 +726,11 @@
     "category": "pashto",
     "order": 39,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream.zeno.fm/adn5vpbmtc8tv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Pamir Radio",
@@ -569,7 +744,11 @@
     "category": "pashto",
     "order": 40,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "http://stream.pamirradio.com:8000/live": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "VOA Deewa Radio",
@@ -597,7 +776,11 @@
     "category": "pashto",
     "order": 42,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://whmsonic.radio.gov.pk:7002/stream": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Shadi",
@@ -611,7 +794,11 @@
     "category": "iran",
     "order": 43,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://ice9.securenetsystems.net/SHADI": 65
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Yar Plus 2",
@@ -625,7 +812,11 @@
     "category": "iran",
     "order": 44,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream-163.zeno.fm/yxemzpoaocavv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "MIBL Radio",
@@ -639,7 +830,11 @@
     "category": "iran",
     "order": 45,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://www.miblradio.com.au/mibl": 320
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Persian Vibe Radio",
@@ -653,7 +848,11 @@
     "category": "iran",
     "order": 46,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://radio.aydayazdani.com/stream": 192
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Farsi Frequency",
@@ -667,7 +866,11 @@
     "category": "iran",
     "order": 47,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream.zeno.fm/3q0k3nxazjkvv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Hope for Tomorrow (Persian)",
@@ -681,7 +884,11 @@
     "category": "iran",
     "order": 48,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://radio.truth.fm:8000/pipfa": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Parastande Persian Worship",
@@ -695,7 +902,11 @@
     "category": "iran",
     "order": 49,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://streamer.radio.co/sa75a4bb19/listen": 192
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Hamrah",
@@ -709,7 +920,11 @@
     "category": "iran",
     "order": 50,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream.zenolive.com/gxdq0awu30duv.aac": 64
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Yar LA",
@@ -723,7 +938,11 @@
     "category": "iran",
     "order": 51,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream-170.zeno.fm/oyb5oh6ne3tuv": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Ava Turkiye",
@@ -737,7 +956,11 @@
     "category": "iran",
     "order": 52,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "http://play.markaradyo.com:8002/stream": 192
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Translation of the Quran in Farsi",
@@ -751,7 +974,11 @@
     "category": "iran",
     "order": 53,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://serverkw.quran-uni.com:8144/;": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Hambastegi (Stockholm)",
@@ -768,6 +995,15 @@
     "mirrors": [
       "http://radiostreamthree.mine.nu:80/9600",
       "http://radiostreamone.mine.nu:80/9600"
+    ],
+    "urlBitrates": {
+      "http://radiostreamthree.mine.nu:80/9400": 64,
+      "http://radiostreamthree.mine.nu:80/9600": 64,
+      "http://radiostreamone.mine.nu:80/9600": 64
+    },
+    "mirrorBitrates": [
+      64,
+      64
     ]
   },
   {
@@ -784,6 +1020,13 @@
     "active": true,
     "mirrors": [
       "https://radio.iraninternational.app/iintl_c"
+    ],
+    "urlBitrates": {
+      "https://stream.radiojar.com/iintl_c": 128,
+      "https://radio.iraninternational.app/iintl_c": 128
+    },
+    "mirrorBitrates": [
+      128
     ]
   },
   {
@@ -815,7 +1058,11 @@
     "category": "iran",
     "order": 57,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "http://live.radiodarbast.com:8443/stream.mp3": 155
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Mokashefeh",
@@ -829,7 +1076,11 @@
     "category": "iran",
     "order": 58,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://s2.radio.co/sbe3f44c5d/listen": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "Radio Ali (Avaz Farsi)",
@@ -843,7 +1094,11 @@
     "category": "iran",
     "order": 59,
     "active": true,
-    "mirrors": []
+    "mirrors": [],
+    "urlBitrates": {
+      "https://radio.avazfarsi.com:8000/radio.mp3": 128
+    },
+    "mirrorBitrates": []
   },
   {
     "name": "IRIB Radio Iran",
@@ -1172,5 +1427,41 @@
       "https://s2cdn3.iranseda.ir/liveedgeprovincial/radio-ardebil/playlist.m3u8",
       "https://s1cdn3.iranseda.ir/liveedgeprovincial/radio-ardebil/playlist.m3u8"
     ]
+  },
+  {
+    "name": "MIBL Radio — Instrumental",
+    "streamUrl": "https://www.miblradio.com.au/mibl2",
+    "website": "https://www.miblradio.com.au/",
+    "logo": "",
+    "bitrate": 320,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "Australia",
+    "category": "iran",
+    "order": 79,
+    "active": true,
+    "mirrors": [],
+    "urlBitrates": {
+      "https://www.miblradio.com.au/mibl2": 320
+    },
+    "mirrorBitrates": []
+  },
+  {
+    "name": "Radio Yar Plus",
+    "streamUrl": "https://stream-171.zeno.fm/2jwyo983y49vv",
+    "website": "",
+    "logo": "",
+    "bitrate": 128,
+    "codec": "MP3",
+    "language": "persian",
+    "country": "The United States Of America",
+    "category": "iran",
+    "order": 80,
+    "active": true,
+    "mirrors": [],
+    "urlBitrates": {
+      "https://stream-171.zeno.fm/2jwyo983y49vv": 128
+    },
+    "mirrorBitrates": []
   }
 ]
