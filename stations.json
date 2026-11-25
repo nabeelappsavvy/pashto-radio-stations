@@ -393,24 +393,6 @@
   "mirrorBitrates": []
  },
  {
-  "name": "Radio ZZA (Zan Zendegi Azadi)",
-  "streamUrl": "https://listen.radioking.com/radio/526993/stream/585379",
-  "website": "",
-  "logo": "https://image.radioking.io/radios/526993/logo/0586ce95-5dac-4996-ba76-2a051f3dffe4.jpeg",
-  "bitrate": 128,
-  "codec": "MP3",
-  "language": "persian",
-  "country": "Iran",
-  "category": "iran",
-  "order": 23,
-  "active": true,
-  "mirrors": [],
-  "urlBitrates": {
-   "https://listen.radioking.com/radio/526993/stream/585379": 128
-  },
-  "mirrorBitrates": []
- },
- {
   "name": "RFE/RL Radio Farda",
   "streamUrl": "http://rfe21.akacast.akamaistream.net/7/751/437779/v1/ibb.akacast.akamaistream.net/rfe21",
   "website": "https://www.radiofarda.com",
@@ -534,24 +516,6 @@
   "mirrors": [],
   "urlBitrates": {
    "https://stream.zeno.fm/i9w3sw7wtwttv": 128
-  },
-  "mirrorBitrates": []
- },
- {
-  "name": "Radio Kabul",
-  "streamUrl": "http://23.81.35.187:8054/stream",
-  "website": "https://www.rta.af/",
-  "logo": "",
-  "bitrate": 128,
-  "codec": "MP3",
-  "language": "dari",
-  "country": "Afghanistan",
-  "category": "pashto",
-  "order": 31,
-  "active": true,
-  "mirrors": [],
-  "urlBitrates": {
-   "http://23.81.35.187:8054/stream": 128
   },
   "mirrorBitrates": []
  },
